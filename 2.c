@@ -54,7 +54,7 @@ void printinorder(struct node* node){
 
 
 void main(){
-	int tree[] = {21,43,1,55,56,3,4,23,12,20};
+	int tree[] = {22,31,44,54,67,33,23,46,88,2,3};
 	int i;
 	struct node *root = NULL;
 	for (i=0; i <= 10; i++){
