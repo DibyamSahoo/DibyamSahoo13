@@ -1,6 +1,7 @@
 # Python Program to implement BFS and DFS traversal
 
 from collections import defaultdict
+
 class Graph:
 
     # Constructor
