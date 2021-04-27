@@ -14,4 +14,4 @@ struct node *search(root, a){
 
 
 void main(){
-	int tree[] = {22,31,44,54,67,33,23,46,88.2.3};
+	int tree[] = {22,31,44,54,67,33,23,46,88,2,3};
